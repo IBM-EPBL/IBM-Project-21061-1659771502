@@ -1,0 +1,1 @@
+https://node-red-miedg-2022-11-14.au-syd.mybluemix.net/ui/#!/0?socketid=lulssw9tEBPMCjyCAAAV
